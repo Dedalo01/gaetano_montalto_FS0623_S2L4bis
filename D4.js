@@ -79,7 +79,7 @@ console.log("ES4.", boundary(numBou50));
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 const EPICODE_WORD = "EPICODE";
-const stringa1 = "EPICODE è incredibile!";
+const stringa1 = "EPICODE è fantastica!";
 const stringa2 = "è incredibile EPICODE!";
 
 function epify(str) {
